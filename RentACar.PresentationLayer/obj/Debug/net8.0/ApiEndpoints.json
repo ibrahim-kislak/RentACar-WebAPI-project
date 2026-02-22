@@ -1,0 +1,209 @@
+[
+  {
+    "ContainingType": "RentACar.PresentationLayer.Controllers.CarController",
+    "Method": "GetByIdCar",
+    "RelativePath": "Car",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RentACar.PresentationLayer.Controllers.CarController",
+    "Method": "InsertCar",
+    "RelativePath": "Car",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "car",
+        "Type": "RentACarProject.EntityLayer.Concrete.Car",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RentACar.PresentationLayer.Controllers.CarController",
+    "Method": "DeleteCar",
+    "RelativePath": "Car",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "car",
+        "Type": "RentACarProject.EntityLayer.Concrete.Car",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RentACar.PresentationLayer.Controllers.CarController",
+    "Method": "UpdateCar",
+    "RelativePath": "Car",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "car",
+        "Type": "RentACarProject.EntityLayer.Concrete.Car",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RentACar.PresentationLayer.Controllers.CustomerController",
+    "Method": "UpdateCustomer",
+    "RelativePath": "Customer",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customer",
+        "Type": "RentACarProject.EntityLayer.Concrete.Customer",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RentACar.PresentationLayer.Controllers.CustomerController",
+    "Method": "DeleteCustomer",
+    "RelativePath": "Customer",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customer",
+        "Type": "RentACarProject.EntityLayer.Concrete.Customer",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RentACar.PresentationLayer.Controllers.CustomerController",
+    "Method": "InsertCustomer",
+    "RelativePath": "Customer/{car}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customer",
+        "Type": "RentACarProject.EntityLayer.Concrete.Customer",
+        "IsRequired": true
+      },
+      {
+        "Name": "car",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RentACar.PresentationLayer.Controllers.CustomerController",
+    "Method": "GetByIdCustomer",
+    "RelativePath": "Customer/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RentACar.PresentationLayer.Controllers.PresentationController",
+    "Method": "UpdateOrder",
+    "RelativePath": "Presentation",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "order",
+        "Type": "RentACarProject.EntityLayer.Concrete.Order",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RentACar.PresentationLayer.Controllers.PresentationController",
+    "Method": "GetByIdOrder",
+    "RelativePath": "Presentation/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RentACar.PresentationLayer.Controllers.PresentationController",
+    "Method": "AddOrder",
+    "RelativePath": "Presentation/{order}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "order",
+        "Type": "RentACarProject.EntityLayer.Concrete.Order",
+        "IsRequired": true
+      },
+      {
+        "Name": "order",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RentACar.PresentationLayer.Controllers.PresentationController",
+    "Method": "DeleteByIdOrder",
+    "RelativePath": "Presentation/{order}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "order",
+        "Type": "RentACarProject.EntityLayer.Concrete.Order",
+        "IsRequired": true
+      },
+      {
+        "Name": "order",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

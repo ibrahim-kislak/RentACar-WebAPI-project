@@ -1,0 +1,16 @@
+C:\Users\baris\logger\RentACarProject\RentACarProject.BusinessLayer\bin\Debug\RentACarProject.BusinessLayer.dll.config
+C:\Users\baris\logger\RentACarProject\RentACarProject.BusinessLayer\bin\Debug\RentACarProject.BusinessLayer.dll
+C:\Users\baris\logger\RentACarProject\RentACarProject.BusinessLayer\bin\Debug\RentACarProject.BusinessLayer.pdb
+C:\Users\baris\logger\RentACarProject\RentACarProject.BusinessLayer\bin\Debug\RentACarProject.DataAccessLayer.dll
+C:\Users\baris\logger\RentACarProject\RentACarProject.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\baris\logger\RentACarProject\RentACarProject.BusinessLayer\bin\Debug\RentACarProject.dll
+C:\Users\baris\logger\RentACarProject\RentACarProject.BusinessLayer\bin\Debug\RentACarProject.DataAccessLayer.pdb
+C:\Users\baris\logger\RentACarProject\RentACarProject.BusinessLayer\bin\Debug\RentACarProject.DataAccessLayer.dll.config
+C:\Users\baris\logger\RentACarProject\RentACarProject.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\baris\logger\RentACarProject\RentACarProject.BusinessLayer\bin\Debug\RentACarProject.pdb
+C:\Users\baris\logger\RentACarProject\RentACarProject.BusinessLayer\bin\Debug\RentACarProject.dll.config
+C:\Users\baris\logger\RentACarProject\RentACarProject.BusinessLayer\obj\Debug\RentACarProject.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\baris\logger\RentACarProject\RentACarProject.BusinessLayer\obj\Debug\RentACarProject.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\baris\logger\RentACarProject\RentACarProject.BusinessLayer\obj\Debug\RentACar.4DE49038.Up2Date
+C:\Users\baris\logger\RentACarProject\RentACarProject.BusinessLayer\obj\Debug\RentACarProject.BusinessLayer.dll
+C:\Users\baris\logger\RentACarProject\RentACarProject.BusinessLayer\obj\Debug\RentACarProject.BusinessLayer.pdb
