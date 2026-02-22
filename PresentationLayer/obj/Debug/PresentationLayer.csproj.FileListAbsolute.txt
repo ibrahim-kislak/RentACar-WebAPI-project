@@ -1,9 +1,0 @@
-C:\Users\baris\logger\RentACarProject\PresentationLayer\bin\Debug\PresentationLayer.exe.config
-C:\Users\baris\logger\RentACarProject\PresentationLayer\bin\Debug\PresentationLayer.exe
-C:\Users\baris\logger\RentACarProject\PresentationLayer\bin\Debug\PresentationLayer.pdb
-C:\Users\baris\logger\RentACarProject\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
-C:\Users\baris\logger\RentACarProject\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
-C:\Users\baris\logger\RentACarProject\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
-C:\Users\baris\logger\RentACarProject\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
-C:\Users\baris\logger\RentACarProject\PresentationLayer\obj\Debug\PresentationLayer.exe
-C:\Users\baris\logger\RentACarProject\PresentationLayer\obj\Debug\PresentationLayer.pdb

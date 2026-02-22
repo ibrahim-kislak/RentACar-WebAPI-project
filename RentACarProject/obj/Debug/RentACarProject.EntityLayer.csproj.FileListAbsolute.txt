@@ -1,7 +1,0 @@
-C:\Users\baris\logger\RentACarProject\RentACarProject\bin\Debug\RentACarProject.dll.config
-C:\Users\baris\logger\RentACarProject\RentACarProject\bin\Debug\RentACarProject.dll
-C:\Users\baris\logger\RentACarProject\RentACarProject\bin\Debug\RentACarProject.pdb
-C:\Users\baris\logger\RentACarProject\RentACarProject\obj\Debug\RentACarProject.EntityLayer.csproj.AssemblyReference.cache
-C:\Users\baris\logger\RentACarProject\RentACarProject\obj\Debug\RentACarProject.EntityLayer.csproj.CoreCompileInputs.cache
-C:\Users\baris\logger\RentACarProject\RentACarProject\obj\Debug\RentACarProject.dll
-C:\Users\baris\logger\RentACarProject\RentACarProject\obj\Debug\RentACarProject.pdb
